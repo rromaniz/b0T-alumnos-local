@@ -1,6 +1,9 @@
 # b0T-alumnos-local
 
-#####  CONTRIBUIDORES  ####
+
+NOMBRE DE ALUMNOS 😎
+
+Jeremias Castañeda Arreola @Janaijc
 
 -------
 
